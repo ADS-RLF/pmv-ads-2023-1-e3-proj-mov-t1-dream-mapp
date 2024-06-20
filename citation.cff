@@ -1,0 +1,22 @@
+message: Please cite this software using these metadata.
+title:
+authors:
+  - family-names: Sales
+    given-names: Ayrle
+  - family-names: Nakhata
+    given-names: Gabriel
+  - family-names: Guimarães Santos
+    given-names: Pedro
+  - family-names: Liberato Ferreira
+    given-names: Renato
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ricardo dos Santos Machado
+    given-names: Will
+keywords:
+  - metas
+  - gestão
+  - controle
+repository-code: https://github.com/ADS-RLF/pmv-ads-2023-1-e3-proj-mov-t1-dream-mapp
+version: 1.0.0
+date-released: 2023-04-19
